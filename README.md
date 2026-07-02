@@ -2,8 +2,10 @@
 A simple nfc business card for Fallout 2026 in Shenzhen. An LED lights up the I in my name when a nfc tag gets scanned :)
 (Slack @mmgg)
 
-<img width="483" height="302" alt="image" src="https://github.com/user-attachments/assets/31a631bf-89b1-4e27-8ec0-9e5606da2f45" />
-<img width="493" height="302" alt="image" src="https://github.com/user-attachments/assets/569836ee-f0f9-4942-8b1c-eb123c983caf" />
+<img width="633" height="463" alt="image" src="https://github.com/user-attachments/assets/27259d4d-44fd-49bd-9d35-f4dc287511c2" />
+<img width="624" height="346" alt="image" src="https://github.com/user-attachments/assets/b65c5bf6-5996-49cd-94db-f31e9e53708b" />
+
+
 
 # PCB
 <img width="843" height="526" alt="image" src="https://github.com/user-attachments/assets/d06b617f-7c5f-4151-a625-d9fccefe48b5" />
